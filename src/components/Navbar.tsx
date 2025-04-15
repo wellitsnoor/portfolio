@@ -8,7 +8,7 @@ export default function Navbar() {
   const links = [
     {
       name: "Home",
-      link: "/",
+      link: "#",
     },
     {
       name: "Projects",
